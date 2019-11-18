@@ -1,3 +1,3 @@
 # phonegap-calculator
 
-http://www.dylanhart.net/app/projects/phonegap-calculator/
+http://dylanhart.net/projects/phonegap-calculator/
